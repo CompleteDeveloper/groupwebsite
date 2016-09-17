@@ -32,3 +32,5 @@ Grunt
 
 BJ Burns (Full Stack) Project Manager
 Will Gant (Full Stack) Project Manager
+Dave Harms (Full Stack) NSS Student
+
