@@ -1,0 +1,23 @@
+{
+  "name": "nashvillenewbieproject",
+  "version": "1.0.0",
+  "description": "Project for CodeNewbie Nashville meet-up",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NashvilleNewbies/groupwebsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NashvilleNewbies/groupwebsite/issues"
+  },
+  "homepage": "https://github.com/NashvilleNewbies/groupwebsite#readme"
+}
