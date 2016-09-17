@@ -32,3 +32,4 @@ Grunt
 
 BJ Burns (Full Stack) Project Manager
 Will Gant (Full Stack) Project Manager
+Chang Lee
