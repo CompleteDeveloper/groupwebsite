@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Project for CodeNewbie Nashville meet-up",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8"
+  },
   "devDependencies": {
     "grunt": "^1.0.1"
   },
